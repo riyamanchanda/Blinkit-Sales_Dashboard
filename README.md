@@ -1,12 +1,10 @@
 🚀 Project Overview:
-
 This dashboard project was inspired by an end-to-end tutorial that walks through building an interactive Power BI dashboard for Blinkit, a grocery delivery service in India 
 YouTube
 . It converts raw sales data into strategic insights using KPI cards, charts, and filters.
 
 
 📌 Key Objectives:
-
 Analyze total sales and average transaction value
 
 Track customer feedback through average ratings
@@ -17,7 +15,6 @@ Create an interactive dashboard for self-service data exploration
 
 
 📊 Highlights & Visuals:
-
 KPI Cards: Display total sales, average sales per transaction, item count, and average rating
 
 Donut Charts: Sales breakdown by fat content (e.g., Low Fat vs Regular)
@@ -30,7 +27,6 @@ Interactive Filters: Item type, outlet tier, and time frame slicers for drill-do
 
 
 🛠 Tech Stack & Tools:
-
 Power BI: Data modeling, transformation, visualization
 
 Power Query (M): Data cleaning and formatting
@@ -41,7 +37,6 @@ Excel / CSV: Source data
 
 
 🔍 Data Source:
-
 Publicly available grocery sales dataset (as used in tutorial video)
 
 Includes details on outlet characteristics, ratings, product types, and monthly sales
