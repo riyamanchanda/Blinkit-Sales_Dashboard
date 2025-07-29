@@ -4,6 +4,7 @@ This dashboard project was inspired by an end-to-end tutorial that walks through
 YouTube
 . It converts raw sales data into strategic insights using KPI cards, charts, and filters.
 
+
 📌 Key Objectives:
 
 Analyze total sales and average transaction value
@@ -13,6 +14,7 @@ Track customer feedback through average ratings
 Understand inventory distribution by product and outlet characteristics
 
 Create an interactive dashboard for self-service data exploration
+
 
 📊 Highlights & Visuals:
 
@@ -26,6 +28,7 @@ Tree/Treemap: Outlet type comparison for sales, visibility, and ratings
 
 Interactive Filters: Item type, outlet tier, and time frame slicers for drill-down
 
+
 🛠 Tech Stack & Tools:
 
 Power BI: Data modeling, transformation, visualization
@@ -35,6 +38,7 @@ Power Query (M): Data cleaning and formatting
 DAX Measures: For KPIs (e.g., Total Sales, Avg. Rating)
 
 Excel / CSV: Source data
+
 
 🔍 Data Source:
 
