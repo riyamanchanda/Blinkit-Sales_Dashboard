@@ -6,28 +6,39 @@ YouTube
 
 📌 Key Objectives:
 Analyze total sales and average transaction value
+
 Track customer feedback through average ratings
+
 Understand inventory distribution by product and outlet characteristics
+
 Create an interactive dashboard for self-service data exploration
 
 
 📊 Highlights & Visuals:
 KPI Cards: Display total sales, average sales per transaction, item count, and average rating
+
 Donut Charts: Sales breakdown by fat content (e.g., Low Fat vs Regular)
+
 Bar Charts & Line Graphs: Outlet performance — by type, size, and region across time
+
 Tree/Treemap: Outlet type comparison for sales, visibility, and ratings
+
 Interactive Filters: Item type, outlet tier, and time frame slicers for drill-down
 
 
 🛠 Tech Stack & Tools:
 Power BI: Data modeling, transformation, visualization
+
 Power Query (M): Data cleaning and formatting
+
 DAX Measures: For KPIs (e.g., Total Sales, Avg. Rating)
+
 Excel / CSV: Source data
 
 
 🔍 Data Source:
 Publicly available grocery sales dataset
+
 Includes details on outlet characteristics, ratings, product types, and monthly sales
 
 📈 Insights & Business Value:
